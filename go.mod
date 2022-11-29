@@ -1,4 +1,4 @@
-module github.com/TheZeroSlave/zapsentry
+module github.com/HASHIMOTO-Takafumi/zapsentry
 
 go 1.17
 
